@@ -1,0 +1,70 @@
+PauloPires  23  S
+Sofia  23  S
+Tomas   12   I
+MarcoMarques   40    I
+Zulmira    17 S
+Olivia1     12  S
+SamuelSimoes   56   D   1
+SandraS                56    D   1
+HugoA        20    D  3
+HugoB        15   D   6
+HugoC       14   D    5
+PauloAlves  54   D   4
+Carlos1     20   D    3
+CarlaCardoso  3   D   4
+SandraMota   24  S 
+PedroPedra   27    S
+Diana      89    S
+Tobias    18    S
+Leonardo  10   S
+PauloLires  23  S
+Sofialmada  23  S
+Tomalois   121   I
+FauloFires   67    D   10
+Marquinhas   40    I
+Zumbira    26 S
+Olivia1     12  S
+SalumelSiloes   56   D   1
+SandraSalcisha       56    D   1
+Hulgo     20    D  3
+Humbro        100   D   10
+Hogu       14   D    5
+PauloAlvelo   34   D   4
+Carlinho     20   D    3
+Carloso  34   D   7
+SandraMotel   24  S 
+PerdoPerda   27    S
+DianaDoninha      89    S
+Fobias    98    S
+LeonardoLionel  10   S
+VauloMires  23  S
+Solpipa  23  S
+Tombres   12   I
+ParboPires   67    D   10
+BarcoBarques   40    I
+Zumbina    17 S
+Olimal     12  S
+Safimoes   56   D   1
+Sansonel       56    D   1
+PauloAlvino   34   D   4
+Carlolio     20   D    3
+Cardeira  34   D   7
+Sandrael   24  S 
+Pedrario   27    I
+Dianel      89    I
+Fonias    98    S
+Leandrel  10   S
+BauloZires  3  D    3
+Sopia  23  S
+Tolas   12   I
+MarcoMagrez   40    I
+Zurima    17 S
+Ovilial     12  S
+SiloesSamel   56   D   1
+Landra       56    D   1
+LapoLaves  54   D   4
+Varlos     20   D    3
+ZarcaCardoso  3   D   2
+ZindraLola   24  S 
+VoinosLimel 12 S
+Lameiro 43 D 0

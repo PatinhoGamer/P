@@ -1,0 +1,28 @@
+Estatisticas -------------------------------
+Locais: 4
+	Pessoas: 7
+
+id: 1, numero de pessoas: 5, capacidade: 50, ligado: 3 -1 -1
+	AnaLebre34A,	 idade: 55,	 estado de saude: imune
+	Tomas111,	 idade: 12,	 estado de saude: saudavel
+	PauloPires2,	 idade: 67,	 estado de saude: saudavel
+	Zulmira2A,	 idade: 17,	 estado de saude: doente, dias doente: 1
+	test,	 idade: 12,	 estado de saude: doente, dias doente: 2
+
+id: 2, numero de pessoas: 2, capacidade: 50, ligado: 3 -1 -1
+	PauloPires1,	 idade: 23,	 estado de saude: saudavel
+	LuisaSantos,	 idade: 40,	 estado de saude: doente, dias doente: 4
+
+id: 3, numero de pessoas: 0, capacidade: 50, ligado: 1 4 2
+
+id: 4, numero de pessoas: 0, capacidade: 50, ligado: 3 -1 -1
+
+
+
+Pessoas que nao estao a participar na simulacao: 0
+
+Taxas: 
+	Saudaveis : 42,857143
+	Immunes : 14,285715
+	Doentes : 42,857143
+-----------------------------------------------
